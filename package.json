@@ -47,5 +47,9 @@
       "email": "wouldgo84@gmail.com",
       "url": "https://github.com/wouldgo"
     }
-  ]
+  ],
+  "resolutions": {
+    "lodash": ">=4.17.12",
+    "js-yaml": ">=3.13.1"
+  }
 }
